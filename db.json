@@ -54,7 +54,7 @@
         { "email": "ann@codingthesmartway.com", "isPrimary": true },
         { "email": "ann@codingthesmartway+1.com", "isPrimary": false }
       ],
-      "dial": "steve@codingthesmartway+2.com",
+      "dial": "annsmith@codingthesmartway+2.com",
       "meeting": "http://anncodingthesmartwayann.com",
       "phones": [{ "phone": "656-532-453" }, { "phone": "323-545-424" }],
       "social": {
@@ -73,10 +73,10 @@
       "position": "software Developer",
       "bio": "I am an very good cricketer and I have played around 345 matches",
       "emails": [
-        { "email": "ann@codingthesmartway.com", "isPrimary": true },
-        { "email": "ann@codingthesmartway+1.com", "isPrimary": false }
+        { "email": "msdd@codingthesmartway.com", "isPrimary": true },
+        { "email": "msdd12@codingthesmartway+1.com", "isPrimary": false }
       ],
-      "dial": "steve@codingthesmartway+2.com",
+      "dial": "msc@codingthesmartway+2.com",
       "meeting": "http://anncodingthesmartwayann.com",
       "phones": [{ "phone": "656-532-453" }, { "phone": "323-545-424" }],
       "social": {
@@ -122,7 +122,7 @@
       ],
       "dial": "steve@codingthesmartway+2.com",
       "meeting": "http://anncodingthesmartwayann.com",
-      "phones": [{ "phone": "656-532-453" }, { "phone": "323-545-424" }],
+      "phones": [{ "phone": "656-123-214" }, { "phone": "124-123-424" }],
       "social": {
         "fb": "https://www.facebook.com/ann",
         "pin": "https://www.pint.com/ann",
@@ -140,12 +140,12 @@
       "position": "Senior Developer",
       "bio": "I am having a very large amount of experience in software development",
       "emails": [
-        { "email": "ann@codingthesmartway.com", "isPrimary": true },
-        { "email": "ann@codingthesmartway+1.com", "isPrimary": false }
+        { "email": "sachingtendu@codingthesmartway.com", "isPrimary": true },
+        { "email": "sachingtendu@codingthesmartway+1.com", "isPrimary": false }
       ],
-      "dial": "steve@codingthesmartway+2.com",
+      "dial": "sachingtendu@codingthesmartway+2.com",
       "meeting": "http://anncodingthesmartwayann.com",
-      "phones": [{ "phone": "656-532-453" }, { "phone": "323-545-424" }],
+      "phones": [{ "phone": "091-532-126" }, { "phone": "323-978-424" }],
       "social": {
         "fb": "https://www.facebook.com/ann",
         "pin": "https://www.pint.com/ann",
@@ -162,12 +162,12 @@
       "bio": "I am a sales manager having lots of experience and I can help you to increase ur sell",
       "position": "Sales Manager",
       "emails": [
-        { "email": "ann@codingthesmartway.com", "isPrimary": true },
-        { "email": "ann@codingthesmartway+1.com", "isPrimary": false }
+        { "email": "smithBaba@codingthesmartway.com", "isPrimary": true },
+        { "email": "smithBaba-12@codingthesmartway+1.com", "isPrimary": false }
       ],
       "dial": "steve@codingthesmartway+2.com",
       "meeting": "http://anncodingthesmartwayann.com",
-      "phones": [{ "phone": "656-532-453" }, { "phone": "323-545-424" }],
+      "phones": [{ "phone": "656-532-453" }, { "phone": "323-819-273" }],
       "social": {
         "fb": "https://www.facebook.com/ann",
         "pin": "https://www.pint.com/ann",
@@ -188,9 +188,9 @@
         { "email": "ann@codingthesmartway.com", "isPrimary": true },
         { "email": "ann@codingthesmartway+1.com", "isPrimary": false }
       ],
-      "dial": "steve@codingthesmartway+2.com",
+      "dial": "Dwyan@codingthesmartway+2.com",
       "meeting": "http://anncodingthesmartwayann.com",
-      "phones": [{ "phone": "656-532-453" }, { "phone": "323-545-424" }],
+      "phones": [{ "phone": "356-532-124" }, { "phone": "812-123-424" }],
       "social": {
         "fb": "https://www.facebook.com/ann",
         "pin": "https://www.pint.com/ann",
